@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\leapyear\bin\Debug\net7.0\leapyear.exe
+C:\Users\ASUS\Desktop\leapyear\bin\Debug\net7.0\leapyear.deps.json
+C:\Users\ASUS\Desktop\leapyear\bin\Debug\net7.0\leapyear.runtimeconfig.json
+C:\Users\ASUS\Desktop\leapyear\bin\Debug\net7.0\leapyear.dll
+C:\Users\ASUS\Desktop\leapyear\bin\Debug\net7.0\leapyear.pdb
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.dll
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\refint\leapyear.dll
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.pdb
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\leapyear.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\leapyear\obj\Debug\net7.0\ref\leapyear.dll
